@@ -1,0 +1,14 @@
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.exe
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.deps.json
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.runtimeconfig.json
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.runtimeconfig.dev.json
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.dll
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\bin\Debug\netcoreapp3.1\Phrog.pdb
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.AssemblyInfoInputs.cache
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.AssemblyInfo.cs
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.csproj.CoreCompileInputs.cache
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.dll
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.pdb
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.genruntimeconfig.cache
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.csproj.AssemblyReference.cache
+C:\Users\adrib\Documents\Uni Europea\Programación Orientada a Objetos\Phrog\Phrog\obj\Debug\netcoreapp3.1\Phrog.GeneratedMSBuildEditorConfig.editorconfig

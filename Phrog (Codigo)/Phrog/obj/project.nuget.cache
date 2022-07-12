@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AW/Lm4+jGlkA5SJRca9nxrbK+RnzIiMX171Szp2VmaatBcoYN+MKok0etXhPAyRkzJzO4PWKWfGgyW4nA+HpDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrib\\Documents\\Uni Europea\\Programación Orientada a Objetos\\Repos\\Phrogger\\Phrog (Codigo)\\Phrog\\Phrog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrib\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\adrib\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
